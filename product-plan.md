@@ -90,3 +90,9 @@ UI设计师根据产品经理给出的原型图以及PRD设计出一套符合要
 根据客户爸爸的需求，可能会对业务拓展。以及对代码的优化。以及需求的更改。当然此处是谁写的代码谁就要负责。
 
 ## PMF验证阶段
+
+
+## 参考
+* http://www.woshipm.com/pmd/545047.html
+* https://blog.fundebug.com/2019/05/06/steps-of-develop-product/
+* https://testerhome.com/topics/12356
