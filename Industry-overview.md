@@ -12,7 +12,12 @@
     * [图居露营]](http://www.tjcamp.cn/)
     * [野玩儿]](http://www.yeoner.com/)
 * 使用MECE的原则来对问题进行分解
-  * 露营在中国市场适合那些客户群体？
+  * 中国露营出游的潜在客户群体数量？
+    * 查看文档 [房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
+    * 2018中国露营地投资报告
+    * http://www.ce.cn/culture/gd/201901/11/t20190111_31237219.shtml
+    * http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf
+    * http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider
 * 查看露营相关的政府及监管机构和行业协会
 * 做PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
 * 做商业模式总结。根据你对行业内主要企业的了解，总结出你对这些企业商业模式的划分，这样在你的沟通中会明确的知道该怎么跟对方沟通。以下示例是对互联网金融领域一些模式的总结。![互联网金融领域一些模式的总结](https://pic3.zhimg.com/80/v2-b1d572d85dbf09f87e7758bd6be903b2_hd.jpg)
