@@ -9,8 +9,12 @@
   * 现在的露营的主要出游方式为自驾（包括自己有车，租车），其中又包括团体，个人小群体。我们主要针对小群体，通过载客汽车保有量达1.85亿，其中以个人名义登记的小型和微型载客汽车（私家车）达1.70亿辆，占载客汽车的91.89%。再加上年人均出游次数在2017年为人，年龄在20-40岁的人数比例，可以通过这样估算潜在客户量
   * http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf
   * http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider
-* PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
-  * ![PEST露营](/images/pest-camping.png)
+* PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。
+  * PEST模型
+  ![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
+  * PEST露营
+  ![PEST露营](/images/pest-camping.png)
+  * PEST房车
   * ![PEST房车](/images/pest-fangche.png)
 * 做商业模式总结。根据你对行业内主要企业的了解，总结出你对这些企业商业模式的划分。以下示例是对互联网金融领域一些模式的总结。![互联网金融领域一些模式的总结](https://pic3.zhimg.com/80/v2-b1d572d85dbf09f87e7758bd6be903b2_hd.jpg)
 ## 竞争格局，如行业竞争格局、市场集中度等
