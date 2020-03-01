@@ -1,6 +1,7 @@
 # 了解露营行业
 
-## 行业概况，如行业的主管机构、行业协会、行业术语等基础信息，以及行业的市场规模、成长性、盈利能力、商业模式、细分市场等。找资料，尽可能多的搜集行业相关的信息，行业的过去、现状如何，行业内监管机构及其政策，一般可以找到该行业内最近上市公司的招股说明书去了解，是最简便的路径。如果再有时间，你去做一下该行业PEST分析和行业发展趋势分析就更完美了。
+## 行业概况
+如行业的主管机构、行业协会、行业术语等基础信息，以及行业的市场规模、成长性、盈利能力、商业模式、细分市场等。找资料，尽可能多的搜集行业相关的信息，行业的过去、现状如何，行业内监管机构及其政策，一般可以找到该行业内最近上市公司的招股说明书去了解，是最简便的路径。如果再有时间，做一下该行业PEST分析和行业发展趋势分析
 #### TODO
 * 查看目前国内露营产业的情况，做好垄断分类
   * 垄断分类，露营产业目前是属于完全竞争，有许多提供同样商品的和服务的竞争者 ![垄断分类](https://pic4.zhimg.com/80/v2-af660e472c1828b68699ffe51405bd46_hd.jpg)
@@ -26,11 +27,11 @@
 ## 你的发现/洞见，这是你跟合作方沟通的初步基础
 
 ## 参考
-[知乎-如何在一周内快速摸清一个行业](https://www.zhihu.com/question/21324385/answer/803480065?)
-[汽车露营营地项目可行性研究报告](https://wenku.baidu.com/view/eb73064beffdc8d376eeaeaad1f34693daef1085.html)
-[《汽车露营营地建设条件和要求》国家标准(草案)资料](https://wenku.baidu.com/view/881bcd21b207e87101f69e3143323968011cf4ce.html)
-[中国露营旅游行业政策研究分析](https://wenku.baidu.com/view/69a7ad38974bcf84b9d528ea81c758f5f71f295b.html)
-[露营地星级评定标准](https://wenku.baidu.com/view/5d4078840a4e767f5acfa1c7aa00b52acfc79cf1.html)
-[露营行业可行性研究报告调研](https://wenku.baidu.com/view/1eb9ab6c710abb68a98271fe910ef12d2bf9a91d.html)
-[房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
-[2018中国房车露营市场前景研究报告](http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf)
+* [知乎-如何在一周内快速摸清一个行业](https://www.zhihu.com/question/21324385/answer/803480065?)
+* [汽车露营营地项目可行性研究报告](https://wenku.baidu.com/view/eb73064beffdc8d376eeaeaad1f34693daef1085.html)
+* [《汽车露营营地建设条件和要求》国家标准(草案)资料](https://wenku.baidu.com/view/881bcd21b207e87101f69e3143323968011cf4ce.html)
+* [中国露营旅游行业政策研究分析](https://wenku.baidu.com/view/69a7ad38974bcf84b9d528ea81c758f5f71f295b.html)
+* [露营地星级评定标准](https://wenku.baidu.com/view/5d4078840a4e767f5acfa1c7aa00b52acfc79cf1.html)
+* [露营行业可行性研究报告调研](https://wenku.baidu.com/view/1eb9ab6c710abb68a98271fe910ef12d2bf9a91d.html)
+* [房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
+* [2018中国房车露营市场前景研究报告](http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf)
