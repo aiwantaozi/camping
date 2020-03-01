@@ -7,8 +7,6 @@
   * 垄断分类，露营产业目前是属于完全竞争，有许多提供同样商品的和服务的竞争者 ![垄断分类](https://pic4.zhimg.com/80/v2-af660e472c1828b68699ffe51405bd46_hd.jpg)
 * 使用MECE的原则分解问题：中国露营出游的潜在客户群体数量？
   * 现在的露营的主要出游方式为自驾（包括自己有车，租车），其中又包括团体，个人小群体。我们主要针对小群体，通过载客汽车保有量达1.85亿，其中以个人名义登记的小型和微型载客汽车（私家车）达1.70亿辆，占载客汽车的91.89%。再加上年人均出游次数在2017年为人，年龄在20-40岁的人数比例，可以通过这样估算潜在客户量
-  * http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf
-  * http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider
 * PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。
   * PEST模型
   ![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
@@ -39,3 +37,4 @@
 * [露营行业可行性研究报告调研](https://wenku.baidu.com/view/1eb9ab6c710abb68a98271fe910ef12d2bf9a91d.html)
 * [房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
 * [2018中国房车露营市场前景研究报告](http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf)
+* [《2018中国露营地投资报告》发布 以数据分析解读行业发展](http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider)
