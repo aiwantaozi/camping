@@ -3,25 +3,15 @@
 ## 行业概况，如行业的主管机构、行业协会、行业术语等基础信息，以及行业的市场规模、成长性、盈利能力、商业模式、细分市场等。找资料，尽可能多的搜集行业相关的信息，行业的过去、现状如何，行业内监管机构及其政策，一般可以找到该行业内最近上市公司的招股说明书去了解，是最简便的路径。如果再有时间，你去做一下该行业PEST分析和行业发展趋势分析就更完美了。
 #### TODO
 * 查看目前国内露营产业的情况，做好垄断分类
-  ![垄断分类](https://pic4.zhimg.com/80/v2-af660e472c1828b68699ffe51405bd46_hd.jpg)
-  * 国内露营相关企业
-    * [露营天下](http://www.campave.com/)
-    * [房车宝](http://www.rvbox.cn/index.php/Index/index.html)
-    * [8264](http://www.8264.com/list/950/)
-    * [露营之家](http://www.5iluying.com/index.html)
-    * [图居露营](http://www.tjcamp.cn/)
-    * [野玩儿](http://www.yeoner.com/)
-    * [路程网](http://www.road-trip.cn/)
-* 使用MECE的原则来对问题进行分解
-  * 中国露营出游的潜在客户群体数量？
-    * 查看文档 [房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
-    * 2018中国露营地投资报告
-    * http://www.ce.cn/culture/gd/201901/11/t20190111_31237219.shtml
-    * http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf
-    * http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider
-* 查看露营相关的政府及监管机构和行业协会
-* 做PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
-* 做商业模式总结。根据你对行业内主要企业的了解，总结出你对这些企业商业模式的划分，这样在你的沟通中会明确的知道该怎么跟对方沟通。以下示例是对互联网金融领域一些模式的总结。![互联网金融领域一些模式的总结](https://pic3.zhimg.com/80/v2-b1d572d85dbf09f87e7758bd6be903b2_hd.jpg)
+  * 垄断分类，露营产业目前是属于完全竞争，有许多提供同样商品的和服务的竞争者 ![垄断分类](https://pic4.zhimg.com/80/v2-af660e472c1828b68699ffe51405bd46_hd.jpg)
+* 使用MECE的原则分解问题：中国露营出游的潜在客户群体数量？
+  * 现在的露营的主要出游方式为自驾（包括自己有车，租车），其中又包括团体，个人小群体。我们主要针对小群体，通过载客汽车保有量达1.85亿，其中以个人名义登记的小型和微型载客汽车（私家车）达1.70亿辆，占载客汽车的91.89%。再加上年人均出游次数在2017年为人，年龄在20-40岁的人数比例，可以通过这样估算潜在客户量
+  * http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf
+  * http://kuaibao.qq.com/s/20190111A1HSNF00?refer=spider
+* PEST模型。PEST分析是指宏观环境的分析，又称一般环境，是指影响一切行业和企业的各种宏观力量。对宏观环境因素作分析，不同行业和企业根据自身特点和经营需要，分析的具体内容会有差异，但一般都应对政治（Political）、经济（Economic）、社会（social）和技术（Technological）这四大类影响企业的主要外部环境因素进行分析。![PEST](https://pic3.zhimg.com/80/v2-0e72661eef86abc224a87b3c1bd3bfca_hd.jpg)
+  * ![PEST露营](/images/pest-camping.png)
+  * ![PEST房车](/images/pest-fangche.png)
+* 做商业模式总结。根据你对行业内主要企业的了解，总结出你对这些企业商业模式的划分。以下示例是对互联网金融领域一些模式的总结。![互联网金融领域一些模式的总结](https://pic3.zhimg.com/80/v2-b1d572d85dbf09f87e7758bd6be903b2_hd.jpg)
 ## 竞争格局，如行业竞争格局、市场集中度等
 #### TODO
 * 通过监管机构、行业协会、券商咨询公司研究报告收集数据（可以参考上一篇文章：《咨询顾问如何搜集数据》），了解行业企业的排名，以及各家企业的营业收入、净利润、员工规模等数据，便于后面统计分析。
@@ -37,3 +27,10 @@
 
 ## 参考
 [知乎-如何在一周内快速摸清一个行业](https://www.zhihu.com/question/21324385/answer/803480065?)
+[汽车露营营地项目可行性研究报告](https://wenku.baidu.com/view/eb73064beffdc8d376eeaeaad1f34693daef1085.html)
+[《汽车露营营地建设条件和要求》国家标准(草案)资料](https://wenku.baidu.com/view/881bcd21b207e87101f69e3143323968011cf4ce.html)
+[中国露营旅游行业政策研究分析](https://wenku.baidu.com/view/69a7ad38974bcf84b9d528ea81c758f5f71f295b.html)
+[露营地星级评定标准](https://wenku.baidu.com/view/5d4078840a4e767f5acfa1c7aa00b52acfc79cf1.html)
+[露营行业可行性研究报告调研](https://wenku.baidu.com/view/1eb9ab6c710abb68a98271fe910ef12d2bf9a91d.html)
+[房车经营模式调研](https://wenku.baidu.com/view/d307c85c0066f5335b812157.html)
+[2018中国房车露营市场前景研究报告](http://co-image.qichacha.com/upload/chacha/att/20180815/1534318808479156.pdf)
