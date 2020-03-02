@@ -13,7 +13,7 @@
   * PEST露营
   ![PEST露营](/images/pest-camping.png)
   * PEST房车
-  * ![PEST房车](/images/pest-fangche.png)
+  ![PEST房车](/images/pest-fangche.png)
 * 做商业模式总结。根据你对行业内主要企业的了解，总结出你对这些企业商业模式的划分。以下示例是对互联网金融领域一些模式的总结。![互联网金融领域一些模式的总结](https://pic3.zhimg.com/80/v2-b1d572d85dbf09f87e7758bd6be903b2_hd.jpg)
 ## 竞争格局，如行业竞争格局、市场集中度等
 #### TODO

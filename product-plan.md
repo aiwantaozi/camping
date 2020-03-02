@@ -20,11 +20,9 @@
     * [野玩儿](http://www.yeoner.com/)
     * [路程网](http://www.road-trip.cn/)
     * [中国露营网](https://www.luyingw.cn/)
-    * [gocamping hk](https://gocamping.hk/)
-    * [camping 全球](https://www.camping.info/en)
-    * [沃尔玛卖户外装备](https://www.walmart.com/cp/camping-gear/4128)
-    * [香港渔农自然护理署](https://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_cam.html)
-    * [香港康乐及文化事务署度假营](https://www.lcsd.gov.hk/tc/camp/campsites/p_campsite.html)
+    * [gocamping hk](https://gocamping.hk/) 名字很有意思，爱自然，人在野，在野外玩。这个网站是分类有区分初级，中级，难度，私人等，分类可借鉴，提供了天气信息，可借鉴
+    * [camping 全球](https://www.camping.info/en) 主打欧洲露营，有很多欧洲营地的信息，营地详情页面有非常丰富的信息，可借鉴：营地推荐活动，营地建议客户量，营地可租赁，营地基本设施中很完善（是不是允许带宠物，是否允许裸体，是否有轮椅坡，是不是有单独的小朋友玩的地方）
+    * [香港渔农自然护理署](https://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_cam.html) 包括很多香港营地的信息
     * [koa](https://koa.com/ways-to-stay/tent-sites/)
     * [hipcamp](https://www.hipcamp.com/)
   * App
