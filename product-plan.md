@@ -24,7 +24,7 @@
     * [camping 全球](https://www.camping.info/en) 主打欧洲露营，有很多欧洲营地的信息，营地详情页面有非常丰富的信息，可借鉴：营地推荐活动，营地建议客户量，营地可租赁，营地基本设施中很完善（是不是允许带宠物，是否允许裸体，是否有轮椅坡，是不是有单独的小朋友玩的地方）
     * [香港渔农自然护理署](https://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_cam.html) 包括很多香港营地的信息
     * [koa](https://koa.com/ways-to-stay/tent-sites/)
-    * [hipcamp](https://www.hipcamp.com/)
+    * [hipcamp](https://www.hipcamp.com/) 非常好的分类和很吸引人的图片，比如说动物经历，山景，等等，借鉴：很吸引人的通过图片来分类。
   * App
     * **可参考** 窝友自驾：包括房车和露营，主要偏重房车。这个我们可以参考其中的热门营地中的UI/UX。1.列表显示营地的时候有显示营地评分，包括的基础设施，详情显示营地的时候基础设施，娱乐设施的显示很好，通过点亮图标显示；2.可以方便的对营地进行打分
     * [top 9 camping apps](https://thedyrt.com/magazine/lifestyle/best-camping-apps/)
@@ -37,25 +37,15 @@
       * AllStays ($9.99) — Rest Stops, RV Parks & Some  * Campgrounds
       * Campendium (Free) — RV, Tent campgrounds
       * Boondocking (Free) — Submitted locations for boondockers
-    * [The Best Camping Apps for iOS and Android](https://toomanyadapters.com/best-camping-apps/)
-      * iOverlander
-      * WikiCamps
-      * iOverlander
-      * Chimani National Parks
-      * Dark Sky
-      * Compass Galaxy
-      * Super Bright LED Flashlight / Best Flash Light
       * Fish Brain
-      * Offline Survival Guide
-      * First Aid
-      * Star Walk 2
-    * [Our Favorite Free Camping Apps](https://www.outsideonline.com/2407523/defense-trekking-poles)
-    * [10 best camping apps for Android!](https://www.androidauthority.com/best-camping-apps-android-787227/)
-    * [Our Favorite Free Camping Apps](https://www.outsideonline.com/2407523/defense-trekking-poles)
 #### 输出：
 * 第一阶段需求脑图
 * 需求说明书
 * 选定主要对标产品
+  * 马蜂窝
+  * hipcamp
+  * tenrr
+  * airbnb
 * 采集10个营地数据
 
 ## 产品原型阶段
